@@ -12,7 +12,7 @@ global.nomerowner = ["27656319889"]
 global.skizo = 'Tristan'
 global.casterix = 'DeeCeeXxx'
 //watermark 
-global.packname = '*TRISTAN*'
+global.packname = 'TRISTAN'
 global.author = 'QUEEN_ANITA-V3'
 
 // cpanel 
